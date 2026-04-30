@@ -19,7 +19,7 @@ Questo repo funge solo da **archivio personale** per conservare setup e utility 
 ## 📦 Elenco dei Setup
 
 ### 🖥️ 7-Zip
-**Percorso:** `/installers/7zip.exe`  
+**Percorso:** `/installers/7z2601-x64.exe`  
 **Descrizione:** Utility di compressione open‑source, utile per ZIP, RAR, 7z e altri formati.
 
 ---
@@ -31,13 +31,13 @@ Questo repo funge solo da **archivio personale** per conservare setup e utility 
 ---
 
 ### 🎮 DirectX Runtime
-**Percorso:** `/installers/directx_redist.exe`  
+**Percorso:** `/installers/dxwebsetup.exe`  
 **Descrizione:** Pacchetto runtime necessario per giochi e applicazioni multimediali.
 
 ---
 
 ### 🛠️ Visual C++ Redistributable
-**Percorso:** `/installers/vcredist_x64.exe`  
+**Percorso:** `/installers/VC_redist.x64.exe`  
 **Descrizione:** Librerie richieste da molti programmi Windows per funzionare correttamente.
 
 ---
@@ -48,7 +48,7 @@ Questo repo funge solo da **archivio personale** per conservare setup e utility 
 
 ---
 
-### 🪟 .NET Framework
-**Percorso:** `/installers/dotnetfx.exe`  
-**Descrizione:** Framework Microsoft necessario per molte applicazioni Windows.
+### .NET 9.0 SDK
+Download ufficiale:
+https://dotnet.microsoft.com/en-us/download/dotnet/9.0
 
