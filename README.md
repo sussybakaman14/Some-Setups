@@ -1,13 +1,13 @@
 ## 📦 Elenco dei Setup
 
 ### 🛡️ Malwarebytes
-**Percorso:** `/installers/malwarebytes_setup.exe`  
+**Percorso:** `/installers/MBSetup.exe`  
 **Descrizione:** Anti‑malware affidabile per la rimozione di spyware, adware e minacce comuni.
 
 ---
 
 ### 🧰 Glary Utilities
-**Percorso:** `/installers/glary_utilities_setup.exe`  
+**Percorso:** https://www.glarysoft.com/glary-utilities/download/
 **Descrizione:** Suite di ottimizzazione per Windows con strumenti di pulizia e manutenzione.
 
 ---
@@ -37,5 +37,5 @@
 ---
 
 ### 🪟 .NET Framework / .NET Runtime
-**Percorso:** (https://dotnet.microsoft.com/it-it/download/dotnet/10.0)
+**Percorso:** https://dotnet.microsoft.com/it-it/download/dotnet/10.0
 **Descrizione:** Framework Microsoft necessario per molte applicazioni Windows.
